@@ -1,0 +1,12 @@
+[project]
+name = "webpage-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-fasthtml>=0.4.5",
+    "pygments>=2.18.0",
+    "markdown>=3.7",
+    "fh-bootstrap>=0.0.3",
+]
